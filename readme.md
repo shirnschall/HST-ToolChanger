@@ -1,2 +1,2 @@
 # HS-Bot-Project
-HS-Bot - A E3D Tool-changer compatible 2020 Extrusion 3D Printer
+HS-Bot - 2020 Extrusion 3D Printer designed to work with E3D Tool-changer system
