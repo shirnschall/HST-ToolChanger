@@ -5,7 +5,7 @@
 - Tool-changer capabilities
 - Core-XY
 - Linear rails on all axes
-- Two or three independent Z axes lead-screws for auto bed tramming (real auto bed leveling)
+- Two or three independent Z axis lead-screws for auto bed tramming (real auto bed leveling)
 - Heated aluminium printbed (silicone heater mat)
 - Enclosure
 - Rigid cube-like frame
