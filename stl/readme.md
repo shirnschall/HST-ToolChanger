@@ -39,6 +39,6 @@ Parts marked with **(e3d)** can be found here: https://github.com/e3donline/Tool
 ### Other
 | Part name     | Quantity      | Material | Required |
 | ------------- |--------------:| --------:|---------:|
-| bohr-vorlage.stl     | 1 | - | :x: |
+| bohr-vorlage.stl     | 1 | - | :heavy_check_mark: |
 
 
