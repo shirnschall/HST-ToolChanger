@@ -6,6 +6,7 @@
 - Core-XY
 - Linear rails on all axes
 - Two or three independent Z axis lead-screws for auto bed tramming (real auto bed leveling)
+- 5V and 24V Power supply (using a relay)
 - Heated aluminium printbed (silicone heater mat)
 - Enclosure
 - Rigid cube-like frame
