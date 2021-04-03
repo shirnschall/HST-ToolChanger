@@ -1,0 +1,4 @@
+G28 ; home all axes
+M98 P"autotram.g"	;tram buildplate
+M98 P"autotram.g"	;tram buildplate
+M98 P"autotram.g"	;tram buildplate

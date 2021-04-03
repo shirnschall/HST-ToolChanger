@@ -1,0 +1,3 @@
+;if printer restarts with tool still active. release it
+G92 C40
+G1 C241 F10000

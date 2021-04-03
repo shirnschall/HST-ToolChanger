@@ -1,0 +1,13 @@
+M561 ; clear any bed transform
+
+;auto tramming
+M98 P"autotram.g"
+M98 P"autotram.g"
+M98 P"autotram.g"
+
+G1 X138 Y105 F6000 ; go to first probe point
+M558 F120	 ; probe point one more time very slowly
+G30              ; home Z by probing the bed
+
+;software compensation
+G29  ; probe the bed and enable compensation
