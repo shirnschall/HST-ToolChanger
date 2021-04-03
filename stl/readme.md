@@ -40,7 +40,7 @@ Parts marked with **(e3d)** can be found here: https://github.com/e3donline/Tool
 | Part name     | Quantity      | Material | Required |
 | ------------- |--------------:| --------:|---------:|
 | netzteil-5v-abdeckung.stl     | 1 | - | :heavy_check_mark: |
-| relais-halterung.stl   | 2 | - | :heavy_check_mark: |
+| relais-halterung.stl   | 1 | - | :heavy_check_mark: |
 | duex5-halterung-2020.stl    | 2 | - | :heavy_check_mark: |
 
 ### Other
