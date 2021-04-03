@@ -36,6 +36,13 @@ Parts marked with **(e3d)** can be found here: https://github.com/e3donline/Tool
 | V6 PCF Fan Bracket.stl  **(e3d)**|   1 per V6 tool|  PETG (or similar) | :x: |
 | V6 Receiver Top.stl  **(e3d)**|   1 per V6 tool|  - | :x: |
 
+### Electronics
+| Part name     | Quantity      | Material | Required |
+| ------------- |--------------:| --------:|---------:|
+| netzteil-5v-abdeckung.stl     | 1 | - | :heavy_check_mark: |
+| relais-halterung.stl   | 2 | - | :heavy_check_mark: |
+| duex5-halterung-2020.stl    | 2 | - | :heavy_check_mark: |
+
 ### Other
 | Part name     | Quantity      | Material | Required |
 | ------------- |--------------:| --------:|---------:|
