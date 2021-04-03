@@ -14,6 +14,6 @@
 
 
 #### Goal of this Project
-The main goal of this project is to create a "cheap" diy solution to implement the e3d tool-changing system that just works.
+The main goal of this project is to create a "cheap" diy solution to implement the e3d tool-changing system in a way that it "just works".
 In contrast to other diy (or cheap chinese)  3d-printers this project is not like a toy but much rather like a professional tool. 
 Using duet3ds software features in combination with multiple sensors the printer "just works" without failed prints. The printer does (almost) everything on its own.
