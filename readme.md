@@ -22,7 +22,7 @@ Using duet3ds software features in combination with multiple sensors the printer
 
 
 ## Work in Progress
-Altough HS-Bot is now fully working, there is still a lot to be done.
+Altough HS-Bot is now fully working, there is still a lot to be done.    
 A list of things to be done:
 - [x] XY motor mount
 - [x] XY connector
