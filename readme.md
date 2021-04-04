@@ -7,7 +7,7 @@ The main goal of this project is to create a "cheap" diy solution to implement t
 In contrast to other diy (or cheap chinese)  3d-printers this project is not like a toy but much rather like a professional tool. 
 Using duet3ds software features in combination with multiple sensors the printer "just works" without failed prints. The printer does (almost) everything on its own.
 
-<img align="right" src="https://github.com/shirnschall/HS-Bot-Project/blob/main/images/example.png?raw=true" height="700">
+<img align="right" src="https://github.com/shirnschall/HS-Bot-Project/blob/main/images/example.png?raw=true" height="600">
 
 ## Hardware Features Overview
 - Tool-changer capabilities
