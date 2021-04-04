@@ -33,3 +33,11 @@ A list of things to be done:
 - [ ] E3D TC Coupler mount redesign
 - [ ] Idle tool holder spacer redesign
 - [ ] Z-axis redesign
+
+## Videos
+
+#### Overview
+
+#### Buildlog
+
+#### Guide
