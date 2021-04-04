@@ -31,6 +31,7 @@ Parts marked with **(e3d)** can be found here: https://github.com/e3donline/Tool
 | Part name     | Quantity      | Material | Required |
 | ------------- |--------------:| --------:|---------:|
 | v6-mount.stl |   1 per V6 tool|  PETG (or similar) | :heavy_check_mark: |
+| idle-tool-mount-abstandshalter.stl |   1 per V6 tool|  - | :heavy_check_mark: |
 | V6 PCF Duct (Winsinn).stl  **(e3d)**|   1 per V6 tool|  PETG (or similar) | :x: |
 | V6 Cable Support.stl **(e3d)** |   1 per V6 tool|  - | :x: |
 | V6 PCF Fan Bracket.stl  **(e3d)**|   1 per V6 tool|  PETG (or similar) | :x: |
