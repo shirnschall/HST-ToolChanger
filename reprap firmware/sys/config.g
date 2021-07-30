@@ -11,7 +11,7 @@ M550 P"H-Bot"                              ; set printer name
 M667 S1                                    ; select CoreXY mode
 
 ; Network
-M551 P"Sebastian0"                         ; Set password
+M551 P"password123"                         ; Set password
 M552 S1                                    ; Enable network
 M586 P0 S1                                 ; Enable HTTP
 M586 P1 S0                                 ; Disable FTP
