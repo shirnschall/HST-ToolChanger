@@ -1,0 +1,174 @@
+2018-07-11 12:52:38 Event logging started
+2018-07-11 12:52:51 Event logging stopped
+2021-09-15 12:25:47 Event logging started
+2021-09-15 12:26:22 Error: Fan number 2 not found
+2021-09-15 12:26:37 Error: Fan number 2 not found
+2021-09-15 12:26:45 Error: Fan number 2 not found
+2021-09-15 12:27:11 Started printing file 0:/gcodes/slider-v2/v2.2/motor-ende-petg-weiss.gcode
+2021-09-15 12:30:01 Leadscrew adjustments made: 0.026 0.077, points used 2, (mean, deviation) before (0.051, 0.024) after (0.000, 0.000)
+2021-09-15 12:30:07 Leadscrew adjustments made: -0.008 0.011, points used 2, (mean, deviation) before (0.001, 0.009) after (-0.000, 0.000)
+2021-09-15 12:30:13 Leadscrew adjustments made: -0.005 0.003, points used 2, (mean, deviation) before (-0.001, 0.004) after (0.000, 0.000)
+2021-09-15 12:34:10 HTTP client 192.168.0.29 login succeeded
+2021-09-15 12:38:07 HTTP client 192.168.0.29 login succeeded
+2021-09-15 13:07:34 Printing resumed
+2021-09-15 13:42:12 Printing resumed
+2021-09-15 13:50:29 HTTP client 192.168.0.29 attempted login with incorrect password
+2021-09-15 13:51:24 HTTP client 192.168.0.29 login succeeded
+2021-09-15 14:27:33 Warning: Driver(s) 0 stalled at Z height 15.67
+2021-09-15 14:29:38 Warning: Driver(s) 0 stalled at Z height 15.91
+2021-09-15 14:30:29 Warning: Driver(s) 0 stalled at Z height 15.91
+2021-09-15 14:34:32 HTTP client 192.168.0.29 attempted login with incorrect password
+2021-09-15 14:34:46 HTTP client 192.168.0.29 login succeeded
+2021-09-15 14:46:52 Warning: Driver(s) 0 stalled at Z height 17.83
+2021-09-15 14:48:05 Warning: Driver(s) 0 stalled at Z height 18.07
+2021-09-15 14:50:56 Warning: Driver(s) 0 stalled at Z height 18.31
+2021-09-15 14:57:12 Warning: Driver(s) 0 stalled at Z height 18.79
+2021-09-15 15:12:41 Warning: Driver(s) 0 stalled at Z height 20.71
+2021-09-15 15:20:01 Warning: Driver(s) 0 stalled at Z height 21.67
+2021-09-15 15:27:33 Warning: Driver(s) 0 stalled at Z height 22.63
+2021-09-15 15:27:45 Warning: Driver(s) 0 stalled at Z height 22.63
+2021-09-15 15:54:06 Warning: Driver(s) 0 stalled at Z height 25.75
+2021-09-15 15:59:25 Warning: Driver(s) 0 stalled at Z height 26.47
+2021-09-15 16:01:30 Warning: Driver(s) 0 stalled at Z height 26.71
+2021-09-15 16:11:19 Warning: Driver(s) 0 stalled at Z height 27.91
+2021-09-15 16:16:02 Warning: Driver(s) 0 stalled at Z height 28.15
+2021-09-15 16:29:41 Warning: Driver(s) 0 stalled at Z height 29.83
+2021-09-15 16:38:32 Warning: Driver(s) 0 stalled at Z height 30.79
+2021-09-15 16:41:40 Warning: Driver(s) 0 stalled at Z height 30.79
+2021-09-15 16:41:55 Warning: Driver(s) 0 stalled at Z height 30.79
+2021-09-15 16:44:09 Warning: Driver(s) 0 stalled at Z height 31.03
+2021-09-15 16:51:56 Warning: Driver(s) 0 stalled at Z height 31.75
+2021-09-15 16:55:40 Warning: Driver(s) 0 stalled at Z height 32.23
+2021-09-15 16:55:48 Warning: Driver(s) 0 stalled at Z height 32.23
+2021-09-15 17:02:15 Warning: Driver(s) 0 stalled at Z height 32.95
+2021-09-15 17:02:20 Warning: Driver(s) 0 stalled at Z height 32.95
+2021-09-15 17:05:49 Warning: Driver(s) 0 stalled at Z height 32.95
+2021-09-15 17:08:39 Warning: Driver(s) 0 stalled at Z height 33.19
+2021-09-15 17:13:47 Warning: Driver(s) 0 stalled at Z height 33.67
+2021-09-15 17:14:55 Warning: Driver(s) 0 stalled at Z height 33.91
+2021-09-15 17:15:25 Warning: Driver(s) 0 stalled at Z height 33.91
+2021-09-15 17:17:52 Warning: Driver(s) 0 stalled at Z height 34.15
+2021-09-15 17:22:46 Warning: Driver(s) 0 stalled at Z height 34.63
+2021-09-15 17:24:50 Warning: Driver(s) 0 stalled at Z height 34.87
+2021-09-15 17:24:55 Warning: Driver(s) 0 stalled at Z height 34.87
+2021-09-15 17:25:04 Warning: Driver(s) 1 stalled at Z height 34.87
+2021-09-15 17:25:16 Warning: Driver(s) 0 stalled at Z height 34.87
+2021-09-15 17:27:14 Warning: Driver(s) 0 stalled at Z height 35.11
+2021-09-15 17:27:23 Warning: Driver(s) 0 stalled at Z height 35.11
+2021-09-15 17:29:36 Warning: Driver(s) 0 stalled at Z height 35.35
+2021-09-15 17:31:54 Warning: Driver(s) 0 stalled at Z height 35.59
+2021-09-15 17:34:21 Warning: Driver(s) 0 stalled at Z height 35.83
+2021-09-15 17:36:24 Warning: Driver(s) 0 stalled at Z height 36.07
+2021-09-15 17:36:34 Warning: Driver(s) 0 stalled at Z height 36.07
+2021-09-15 17:39:35 Warning: Driver(s) 0 stalled at Z height 36.31
+2021-09-15 17:40:36 Warning: Driver(s) 0 stalled at Z height 36.55
+2021-09-15 17:40:50 Warning: Driver(s) 0 stalled at Z height 36.55
+2021-09-15 17:42:44 Warning: Driver(s) 0 stalled at Z height 36.79
+2021-09-15 17:42:59 Warning: Driver(s) 0 stalled at Z height 36.79
+2021-09-15 17:45:07 Warning: Driver(s) 0 stalled at Z height 37.03
+2021-09-15 17:47:02 Warning: Driver(s) 0 stalled at Z height 37.27
+2021-09-15 17:51:43 Warning: Driver(s) 0 stalled at Z height 37.75
+2021-09-15 17:51:47 Warning: Driver(s) 0 stalled at Z height 37.75
+2021-09-15 17:51:52 Warning: Driver(s) 0 stalled at Z height 37.75
+2021-09-15 17:53:00 Warning: Driver(s) 0 stalled at Z height 37.75
+2021-09-15 17:55:25 Warning: Driver(s) 0 stalled at Z height 37.75
+2021-09-15 17:59:27 Warning: Driver(s) 0 stalled at Z height 38.23
+2021-09-15 18:04:16 Warning: Driver(s) 0 stalled at Z height 38.71
+2021-09-15 18:05:16 Warning: Driver(s) 0 stalled at Z height 38.95
+2021-09-15 18:06:15 Warning: Driver(s) 0 stalled at Z height 38.95
+2021-09-15 18:06:23 Warning: Driver(s) 0 stalled at Z height 38.95
+2021-09-15 18:06:27 Warning: Driver(s) 0 stalled at Z height 38.95
+2021-09-15 18:07:25 Warning: Driver(s) 0 stalled at Z height 39.19
+2021-09-15 18:07:43 Warning: Driver(s) 0 stalled at Z height 39.19
+2021-09-15 18:09:33 Warning: Driver(s) 0 stalled at Z height 39.43
+2021-09-15 18:12:36 Warning: Driver(s) 0 stalled at Z height 39.67
+2021-09-15 18:13:18 Warning: Driver(s) 0 stalled at Z height 39.67
+2021-09-15 18:13:28 Warning: Driver(s) 0 stalled at Z height 39.67
+2021-09-15 18:16:43 Warning: Driver(s) 0 stalled at Z height 40.15
+2021-09-15 18:17:25 Warning: Driver(s) 0 stalled at Z height 40.15
+2021-09-15 18:21:47 Warning: Driver(s) 0 stalled at Z height 40.63
+2021-09-15 18:26:10 Warning: Driver(s) 0 stalled at Z height 41.11
+2021-09-15 18:26:28 Warning: Driver(s) 0 stalled at Z height 41.11
+2021-09-15 18:31:52 Warning: Driver(s) 0 stalled at Z height 41.83
+2021-09-15 18:33:33 Warning: Driver(s) 0 stalled at Z height 42.07
+2021-09-15 18:33:55 Warning: Driver(s) 0 stalled at Z height 42.07
+2021-09-15 18:35:51 Warning: Driver(s) 0 stalled at Z height 42.31
+2021-09-15 18:38:42 Warning: Driver(s) 0 stalled at Z height 42.55
+2021-09-15 18:43:11 HTTP client 192.168.0.39 attempted login with incorrect password
+2021-09-15 18:43:18 HTTP client 192.168.0.39 login succeeded
+2021-09-15 18:43:33 Warning: Driver(s) 0 stalled at Z height 42.79
+2021-09-15 18:44:46 Warning: Driver(s) 0 stalled at Z height 42.79
+2021-09-15 18:45:02 Warning: Driver(s) 0 stalled at Z height 42.79
+2021-09-15 18:45:19 Warning: Driver(s) 0 stalled at Z height 42.79
+2021-09-15 18:47:06 Warning: Driver(s) 0 stalled at Z height 43.03
+2021-09-15 18:47:26 Warning: Driver(s) 0 stalled at Z height 43.03
+2021-09-15 18:47:48 Warning: Driver(s) 0 stalled at Z height 43.03
+2021-09-15 18:48:20 Warning: Driver(s) 0 stalled at Z height 43.27
+2021-09-15 18:49:47 Warning: Driver(s) 0 stalled at Z height 43.27
+2021-09-15 18:50:51 Warning: Driver(s) 0 stalled at Z height 43.51
+2021-09-15 18:52:04 Warning: Driver(s) 0 stalled at Z height 43.51
+2021-09-15 18:53:03 Warning: Driver(s) 0 stalled at Z height 43.51
+2021-09-15 18:54:07 Warning: Driver(s) 0 stalled at Z height 43.75
+2021-09-15 18:57:02 Warning: Driver(s) 0 stalled at Z height 43.99
+2021-09-15 18:57:06 Warning: Driver(s) 0 stalled at Z height 43.99
+2021-09-15 18:57:47 Warning: Driver(s) 0 stalled at Z height 43.99
+2021-09-15 18:59:11 Warning: Driver(s) 0 stalled at Z height 44.23
+2021-09-15 18:59:33 Warning: Driver(s) 0 stalled at Z height 44.23
+2021-09-15 19:02:01 Warning: Driver(s) 0 stalled at Z height 44.47
+2021-09-15 19:02:06 Warning: Driver(s) 0 stalled at Z height 44.47
+2021-09-15 19:03:50 Warning: Driver(s) 0 stalled at Z height 44.71
+2021-09-15 19:04:12 Warning: Driver(s) 0 stalled at Z height 44.71
+2021-09-15 19:06:22 Warning: Driver(s) 0 stalled at Z height 44.95
+2021-09-15 19:06:26 Warning: Driver(s) 0 stalled at Z height 44.95
+2021-09-15 19:08:11 Warning: Driver(s) 0 stalled at Z height 45.19
+2021-09-15 19:10:42 Warning: Driver(s) 0 stalled at Z height 45.43
+2021-09-15 19:10:47 Warning: Driver(s) 0 stalled at Z height 45.43
+2021-09-15 19:12:31 Warning: Driver(s) 0 stalled at Z height 45.67
+2021-09-15 19:12:49 Warning: Driver(s) 0 stalled at Z height 45.67
+2021-09-15 19:12:54 Warning: Driver(s) 0 stalled at Z height 45.67
+2021-09-15 19:14:59 Warning: Driver(s) 0 stalled at Z height 45.91
+2021-09-15 19:15:03 Warning: Driver(s) 0 stalled at Z height 45.91
+2021-09-15 19:15:08 Warning: Driver(s) 0 stalled at Z height 45.91
+2021-09-15 19:17:14 Warning: Driver(s) 0 stalled at Z height 46.15
+2021-09-15 19:19:24 Warning: Driver(s) 0 stalled at Z height 46.39
+2021-09-15 19:19:28 Warning: Driver(s) 0 stalled at Z height 46.39
+2021-09-15 19:21:12 Warning: Driver(s) 0 stalled at Z height 46.63
+2021-09-15 19:21:35 Warning: Driver(s) 0 stalled at Z height 46.63
+2021-09-15 19:23:44 Warning: Driver(s) 0 stalled at Z height 46.87
+2021-09-15 19:23:49 Warning: Driver(s) 0 stalled at Z height 46.87
+2021-09-15 19:25:33 Warning: Driver(s) 0 stalled at Z height 47.11
+2021-09-15 19:25:55 Warning: Driver(s) 0 stalled at Z height 47.11
+2021-09-15 19:28:01 Warning: Driver(s) 0 stalled at Z height 47.35
+2021-09-15 19:28:05 Warning: Driver(s) 0 stalled at Z height 47.35
+2021-09-15 19:28:10 Warning: Driver(s) 0 stalled at Z height 47.35
+2021-09-15 19:30:14 Warning: Driver(s) 0 stalled at Z height 47.35
+2021-09-15 19:31:00 Warning: Driver(s) 0 stalled at Z height 47.35
+2021-09-15 19:33:14 Warning: Driver(s) 0 stalled at Z height 47.59
+2021-09-15 19:33:37 Warning: Driver(s) 0 stalled at Z height 47.59
+2021-09-15 19:35:42 Warning: Driver(s) 0 stalled at Z height 47.83
+2021-09-15 19:35:47 Warning: Driver(s) 0 stalled at Z height 47.83
+2021-09-15 19:37:57 Warning: Driver(s) 0 stalled at Z height 48.07
+2021-09-15 19:40:03 Warning: Driver(s) 0 stalled at Z height 48.31
+2021-09-15 19:40:08 Warning: Driver(s) 0 stalled at Z height 48.31
+2021-09-15 19:41:56 Warning: Driver(s) 0 stalled at Z height 48.55
+2021-09-15 19:42:14 Warning: Driver(s) 0 stalled at Z height 48.55
+2021-09-15 19:42:18 Warning: Driver(s) 0 stalled at Z height 48.55
+2021-09-15 19:45:09 Warning: Driver(s) 0 stalled at Z height 48.79
+2021-09-15 19:45:31 Warning: Driver(s) 0 stalled at Z height 48.79
+2021-09-15 19:45:36 Warning: Driver(s) 0 stalled at Z height 48.79
+2021-09-15 19:48:45 Warning: Driver(s) 0 stalled at Z height 49.03
+2021-09-15 19:51:38 Warning: Driver(s) 0 stalled at Z height 49.27
+2021-09-15 19:53:31 Warning: Driver(s) 0 stalled at Z height 49.51
+2021-09-15 19:53:40 Warning: Driver(s) 0 stalled at Z height 49.51
+2021-09-15 19:53:45 Warning: Driver(s) 0 stalled at Z height 49.51
+2021-09-15 19:59:36 Warning: Driver(s) 0 stalled at Z height 50.23
+2021-09-15 20:05:27 Warning: Driver(s) 0 stalled at Z height 50.95
+2021-09-15 20:19:24 Warning: Driver(s) 0 stalled at Z height 52.39
+2021-09-15 20:19:36 Warning: Driver(s) 0 stalled at Z height 52.39
+2021-09-15 20:24:53 Warning: Driver(s) 0 stalled at Z height 53.11
+2021-09-15 20:45:21 Warning: Driver(s) 0 stalled at Z height 55.03
+2021-09-15 20:46:04 Warning: Driver(s) 0 stalled at Z height 55.03
+2021-09-15 20:49:36 Finished printing file 0:/gcodes/slider-v2/v2.2/motor-ende-petg-weiss.gcode, print time was 8h 21m
+2021-09-15 20:56:13 Power off commanded
+2021-09-15 20:56:16 Warning: VIN under-voltage event (9.5V)
+2021-09-15 22:29:59 HTTP client 192.168.0.39 disconnected

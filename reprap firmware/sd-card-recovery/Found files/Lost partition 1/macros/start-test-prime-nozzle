@@ -1,0 +1,9 @@
+G28 ; home all axes
+G32 ; run bed.g -- probe bed and enable compensation
+
+;prime nozzle prusa
+G1 Y-3.0 X5 Z0.2 F1000.0 ; go outside print area
+G92 E0.0
+G1 X75.0 E9.0 F1000.0 ; intro line
+G1 X150.0 E12.5 F1000.0 ; intro line
+G92 E0.0

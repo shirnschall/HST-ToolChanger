@@ -1,0 +1,9 @@
+; tpost1.g
+; called after tool 1 has been selected
+
+;heatup
+M116 P1
+;only ust if standby temp is not printing temp. this will add a few seconds delay to check if temp is stable
+
+;prime nozzle
+M98 P"pri
