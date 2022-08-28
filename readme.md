@@ -1,4 +1,6 @@
 # HS-Bot-Project
+Building a better E3D-toolchanger.
+
 ### HS-Bot - 2020 extrusion motion system (3D-printer) designed from the ground up to work with E3D Tool-changer system
 
 
