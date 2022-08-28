@@ -31,10 +31,10 @@ A list of things to be done:
 - [x] XY motor mount
 - [x] XY connector
 - [x] XY idler mount
-- [x] Dual (independent) lead screw Z-axis mount
+- [x] Tripple (independent) lead screw Z-axis mount
 - [ ] E3D TC Coupler mount redesign
-- [ ] Idle tool holder spacer redesign
-- [ ] Z-axis redesign
+- [x] Idle tool holder spacer redesign
+- [x] Z-axis redesign
 
 ## Videos
 
