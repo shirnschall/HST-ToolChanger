@@ -1,4 +1,6 @@
 # HS-Bot-Project
+Building a better E3D-toolchanger.
+
 ### HS-Bot - 2020 extrusion motion system (3D-printer) designed from the ground up to work with E3D Tool-changer system
 
 
@@ -29,10 +31,10 @@ A list of things to be done:
 - [x] XY motor mount
 - [x] XY connector
 - [x] XY idler mount
-- [x] Dual (independent) lead screw Z-axis mount
+- [x] Tripple (independent) lead screw Z-axis mount
 - [ ] E3D TC Coupler mount redesign
-- [ ] Idle tool holder spacer redesign
-- [ ] Z-axis redesign
+- [x] Idle tool holder spacer redesign
+- [x] Z-axis redesign
 
 ## Videos
 
